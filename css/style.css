@@ -1,0 +1,38 @@
+.btnSearch
+{
+    padding: 2px 50px;
+    margin: 0 20px;
+}
+.top-section{
+    max-width: 700px;
+    margin: 40px auto;
+
+}
+.top-heading{
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 2;
+}
+.top-para{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+/* ////////////// */
+.card-section{
+    margin: 0;
+    padding: 40px;
+    background-color: #bbbbbb;
+}
+
+.card{
+    max-width: 300px;
+}
+ul li a{
+    text-decoration: none;
+}
+.footer-row{
+    margin-top: 45px;
+    
+}
